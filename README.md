@@ -37,7 +37,7 @@ The application uses a MySQL database with the following tables:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/chethann07/todo-project.git
    ```
 2. **Navigate into the project directory**:
    ```bash
